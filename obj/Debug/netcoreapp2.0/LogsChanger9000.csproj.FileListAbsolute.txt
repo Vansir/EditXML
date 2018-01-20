@@ -1,0 +1,11 @@
+C:\Users\Vansir\Desktop\LogsChanger9000\LogsChanger9000\bin\Debug\netcoreapp2.0\LogsChanger9000.deps.json
+C:\Users\Vansir\Desktop\LogsChanger9000\LogsChanger9000\bin\Debug\netcoreapp2.0\LogsChanger9000.runtimeconfig.json
+C:\Users\Vansir\Desktop\LogsChanger9000\LogsChanger9000\bin\Debug\netcoreapp2.0\LogsChanger9000.runtimeconfig.dev.json
+C:\Users\Vansir\Desktop\LogsChanger9000\LogsChanger9000\bin\Debug\netcoreapp2.0\LogsChanger9000.dll
+C:\Users\Vansir\Desktop\LogsChanger9000\LogsChanger9000\bin\Debug\netcoreapp2.0\LogsChanger9000.pdb
+C:\Users\Vansir\Desktop\LogsChanger9000\LogsChanger9000\obj\Debug\netcoreapp2.0\LogsChanger9000.csproj.CoreCompileInputs.cache
+C:\Users\Vansir\Desktop\LogsChanger9000\LogsChanger9000\obj\Debug\netcoreapp2.0\LogsChanger9000.AssemblyInfoInputs.cache
+C:\Users\Vansir\Desktop\LogsChanger9000\LogsChanger9000\obj\Debug\netcoreapp2.0\LogsChanger9000.AssemblyInfo.cs
+C:\Users\Vansir\Desktop\LogsChanger9000\LogsChanger9000\obj\Debug\netcoreapp2.0\LogsChanger9000.dll
+C:\Users\Vansir\Desktop\LogsChanger9000\LogsChanger9000\obj\Debug\netcoreapp2.0\LogsChanger9000.pdb
+C:\Users\Vansir\Desktop\LogsChanger9000\LogsChanger9000\obj\Debug\netcoreapp2.0\LogsChanger9000.csprojResolveAssemblyReference.cache
